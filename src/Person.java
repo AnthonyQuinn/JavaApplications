@@ -16,5 +16,10 @@ void changeAge(int newAge)
 {
     age = newAge;	
 }
+void printStates() {
+    System.out.println("Name:" +
+        name + " age:" + 
+        age + " status:" + status);
+}
 }
 
