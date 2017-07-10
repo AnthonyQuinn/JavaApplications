@@ -19,7 +19,7 @@ void changeAge(int newAge)
 void printStates() {
     System.out.println("Name:" +
         name + " age:" + 
-        age + " myStatus:" + status);
+        age + " myStdddddd:" + status);
 }
 }
 
